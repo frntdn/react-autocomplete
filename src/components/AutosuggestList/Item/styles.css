@@ -1,0 +1,17 @@
+.item {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+
+.name-link {
+    color: #282c34;
+}
+
+.genre {
+    position: relative;
+    font-size: 8px;
+    line-height: 8px;
+    margin-left: 4px;
+}
