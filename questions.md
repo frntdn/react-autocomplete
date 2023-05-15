@@ -51,7 +51,7 @@ High-orded components this is a techchnique that helps you to enhance component 
    and async...await? 
 
 - Promises uses `.then` and `.catch` chains to handle errors. 
-- Callback is synchronous technique to handle errors or some actions at the end of some script. 
+- Callback is asynchronous technique to handle errors or some actions at the end of some script. 
 - And `async await` this an abstract syntax on generator and promises and it seems more synchronous but at the same time they are asynchronous like promises. 
 
 8. How many arguments does setState take and why is it async. 
